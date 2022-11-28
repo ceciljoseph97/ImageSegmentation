@@ -5,8 +5,6 @@ image.png K-means and DBSCAN are clustering algorithms, which we apply for color
 
 DBSCAN is so called density-based clustering algorithm, which tries to group similar colors into different classes based on how densely they are positioned together.
 
-Dependencies All packages/libraries should be included in Python 3.6.8
-
 Format k-means and dbscan use following format string (string of 3 dimensional array of size [x,y,n]):
 
 [[[n0,n1,n2,...],[n0,n1,n2,...]],[[n0,n1,n2,...],[n0,n1,n2,...]],...]
