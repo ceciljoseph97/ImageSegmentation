@@ -79,7 +79,7 @@ def EuclideanDistance(P,Q):
     return math.sqrt(sum(intermediateValues))
 '''
 
-#If using this then correct dbscan and FindNeighbours to have a param to differentiate the distance methods.
+#If using both functions then correct dbscan and FindNeighbours to have a param to differentiate the distance methods.
 def MaximumDistance(P,Q):
     intermediateValues = []
     for i in range(len(P[2])):
