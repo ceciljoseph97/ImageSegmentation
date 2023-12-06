@@ -1,4 +1,4 @@
-# Code concept by Rahul Ramakrishnan
+# Code handled by Rahul Ramakrishnan
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
